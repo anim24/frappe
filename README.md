@@ -1,4 +1,3 @@
-```markdown
 # 📦 Frappe Bench Setup
 
 Proyek ini adalah setup Frappe (dan/atau ERPNext) lengkap dengan konfigurasi `site`, custom app, dan panduan untuk menjalankannya secara lokal.
