@@ -1,0 +1,12 @@
+env/
+*.pyc
+__pycache__/
+sites/*/private/
+sites/*/public/
+sites/*/backups/
+sites/*/logs/
+sites/*/locks/
+sites/*/session.json
+sites/*/installed_apps.json
+sites/*/site_config_backup.json
+*.log
